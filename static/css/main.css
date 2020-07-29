@@ -1,9 +1,18 @@
 body{
 	background-color: hsl(0, 0%, 98%);
+	/*padding-top: 50px;*/
 }
 
 h1,h2,h3,h4,h5,h6{
 	color:hsl(0, 0%, 30%);
+}
+
+.navbar {
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 0 8px 6px -6px #999;
+
+    /* the rest of your styling */
 }
 
 .box-element{
@@ -29,6 +38,12 @@ h1,h2,h3,h4,h5,h6{
 	background-color: #4f868c!important;
 }
 
+
+#logo{
+	width: 70%;
+	height: 30px;
+}
+
 #cart-icon{
 	width:25px;
 	display: inline-block;
@@ -46,7 +61,7 @@ h1,h2,h3,h4,h5,h6{
 	font-size: 14px;
 }
 
-.col-lg-4, .col-lg-6, .col-lg-8, .col-lg-12{
+.col-lg-4{
 	margin-top: 10px;
 }
 
