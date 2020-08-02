@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 store/__pycache__/
+=======
+store/__pycache__/
+>>>>>>> 717cb49658094ec0e0d269b3b0cef0ffc1c6dade
